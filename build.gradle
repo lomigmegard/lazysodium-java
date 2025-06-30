@@ -34,7 +34,7 @@ version = project.ext.version
 
 mainClassName = "com.goterl.lazysodium.LazySodium"
 sourceCompatibility = JavaVersion.VERSION_21
-targetCompatibility = JavaVersion.VERSION_21
+targetCompatibility = JavaVersion.VERSION_1_8
 
 sourceSets {
     main {
